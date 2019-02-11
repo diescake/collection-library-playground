@@ -9,6 +9,13 @@ A playground for collection libraries to experiment feelings and confirm their b
 - Node.js v8.xx
   - Latest minor revision is recommended
 
+## Collection libraries
+
+- [lodash](https://lodash.com/)
+- [immutable](https://github.com/facebook/immutable-js/)
+- [immer](https://github.com/mweststrate/immer)
+- [ramda](https://github.com/ramda/ramda)
+
 ## Npm script
 
 ```sh
